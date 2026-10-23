@@ -1,0 +1,15 @@
+# Plugin bundles are restored from pinned assets; do not version runtime code.
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/styles.css
+.obsidian/plugins/**/manifest.json
+.obsidian/plugins/**/data.json
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/hotkeys.json
+.obsidian/bookmarks.json
+.obsidian/graph.json
+.obsidian/core-plugins.json
+.trash/
+.DS_Store
+Thumbs.db
+证据/

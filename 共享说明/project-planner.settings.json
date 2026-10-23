@@ -1,0 +1,12 @@
+{
+  "language": "zh-CN",
+  "layoutDirection": "Horizontal",
+  "tagColorPalette": "ocean",
+  "ganttLabelWidth": 380,
+  "ganttSkipWeekends": true,
+  "ganttShowWarnings": true,
+  "showCriticalPath": false,
+  "createCompanionNotes": false,
+  "financeEnabled": false,
+  "kanbanGroupBy": "status"
+}

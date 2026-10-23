@@ -1,0 +1,44 @@
+[
+  {
+    "plugin": "project-planner",
+    "version": "1.0.1",
+    "file": "manifest.json",
+    "url": "https://github.com/HMIL1151/project-planner/releases/download/1.0.1/manifest.json",
+    "sha256": "20bae8981b32d745c51eadcfda1556979ffe936b7d7d2717c57927aa73a02c9d"
+  },
+  {
+    "plugin": "project-planner",
+    "version": "1.0.1",
+    "file": "main.js",
+    "url": "https://github.com/HMIL1151/project-planner/releases/download/1.0.1/main.js",
+    "sha256": "bd2d21aa28bbc143f68dd38d4f510184f03ac751f96caa03e33b8df2587fbe32"
+  },
+  {
+    "plugin": "project-planner",
+    "version": "1.0.1",
+    "file": "styles.css",
+    "url": "https://github.com/HMIL1151/project-planner/releases/download/1.0.1/styles.css",
+    "sha256": "06cb6bf80630ed4ebc60e4ca7859fe28a58a7b7c2ccfbd1363bac76a6ac7cc42"
+  },
+  {
+    "plugin": "dataview",
+    "version": "0.5.70",
+    "file": "manifest.json",
+    "url": "https://github.com/blacksmithgu/obsidian-dataview/releases/download/0.5.70/manifest.json",
+    "sha256": "9235db47112da81b85591c79ecb9ae2574e5e72207056e976472f90616286185"
+  },
+  {
+    "plugin": "dataview",
+    "version": "0.5.70",
+    "file": "main.js",
+    "url": "https://github.com/blacksmithgu/obsidian-dataview/releases/download/0.5.70/main.js",
+    "sha256": "6bb1cf7010afad830e73575fca0e2bfbd3279c562e3d9d24f2d2f45161eb7d00"
+  },
+  {
+    "plugin": "dataview",
+    "version": "0.5.70",
+    "file": "styles.css",
+    "url": "https://github.com/blacksmithgu/obsidian-dataview/releases/download/0.5.70/styles.css",
+    "sha256": "3306dd9032e00f989ba7233a37fd255bc4d3f4340cee661762e952f3f6aa1de9"
+  }
+]

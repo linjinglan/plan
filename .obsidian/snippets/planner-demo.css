@@ -1,0 +1,13 @@
+.markdown-preview-view h1 { color: var(--text-normal); font-size: 1.65em; }
+.markdown-preview-view h2 { margin-top: 1.6em; }
+.markdown-preview-view .callout { border-radius: 12px; }
+.markdown-preview-view table { width: 100%; font-size: .94em; }
+.markdown-preview-view th { background: rgba(124, 58, 237, .07); }
+.workspace-leaf-content[data-type^="project-planner"] { font-size: 14px; }
+.markdown-preview-view .inline-title { display: none; }
+.project-planner-gantt-toolbar::after {
+  content: '演示排期 · 日期仅供体验，非正式工期；实际状态以任务笔记为准';
+  flex-basis: 100%; padding: 8px 12px; border-radius: 7px;
+  background: rgba(124, 58, 237, .07); color: var(--text-muted); font-size: 13px;
+}
+.project-planner-gantt__label-text { font-size: 15px; }

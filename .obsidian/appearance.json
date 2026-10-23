@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#7c3aed",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "planner-demo"
+  ]
+}
